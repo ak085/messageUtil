@@ -24,7 +24,7 @@ public class TestMessageUtil {
 	{
 		System.out.println("\nCall function testSalutationMessage()");
 		System.out.println("_______________________________________");
-		String actual = "Hi! "+ name;
+		String actual = "Hello! "+ name;
 		String expected =messageUtil.salutationMessage() ; 
 		System.out.println("actual   defined here : "+ actual);
 		System.out.println("expected from function: "+ expected);
