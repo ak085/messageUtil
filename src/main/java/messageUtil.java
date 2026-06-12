@@ -12,6 +12,6 @@ public class messageUtil {
 	   }   
 
 	   public String salutationMessage(){
-		  return ("Hi! " + this.NAME);	   
+		  return ("Hello!" + this.NAME);	   
 	   }   
 }
